@@ -1,0 +1,3 @@
+- 👋 hi, I’m @ninnnjjhh
+- 👀 I’m interested in computer programmation
+- 🌱 I’m currently learning c++
